@@ -192,7 +192,11 @@ a
 proper
 coffee
 pot
+var
 var123
+var
+variavel
+teste
 Tin
 coffee
 pots

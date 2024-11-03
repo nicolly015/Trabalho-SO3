@@ -1,11 +1,9 @@
-news
 uucp
 proxy
 www-data
 backup
 list
 irc
-gnats
+_apt
 nobody
 systemd-network
-systemd-resolve
